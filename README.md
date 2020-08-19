@@ -1,2 +1,2 @@
-# Image-Recognition-system
+# Face-Recognition-system
 This repository contains the python notebook for a simple image recognition system of two famous Football players, Lionel Messi and Cristiano Ronaldo.</br></br>I used the famous face_recognition library which comes with a pretrained model for face recognition. Just feed in a few images of the people/things you want the system to identify, so that the system can learn and then identify those people/things in other images.
